@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... rust.
 - 💞️ I’m looking to collaborate on ... node, ts, and rust projects.
 - 📫 How to reach me ... right here!
-- 😄 Pronouns: ... his majesty.
+- 😄 Pronouns: ... yes please.
 
 <!---
 hack-entertainer/hack-entertainer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
