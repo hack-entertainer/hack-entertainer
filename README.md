@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hack-entertainer
 - 👀 I’m interested in ... code
 - 🌱 I’m currently learning ... Zig?
-- 💞️ I’m looking to collaborate on ... node, ts, and rust projects.
+- 💞️ I’m looking to collaborate on ... node, ts, and Zig projects.
 - 📫 How to reach me ... right here!
 - 😄 Pronouns: ... yes please.
 
